@@ -27,5 +27,4 @@ Pure functional programming has a set of rules to follow:
 		- the function takes a one or more functions as parameters
 		- the function returns another function as result (ex. Combinator pattern)
 
-
-//more in code comments
+More in code comments
